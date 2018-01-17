@@ -1,0 +1,17 @@
+<TelephoneExchangeConfg>
+<Vendor ClassName="version2.BezeqPhoneCall">
+<Prefix>02</Prefix>
+<Prefix>03</Prefix>
+<Prefix>04</Prefix>
+<Prefix>08</Prefix>
+</Vendor>
++<Vendor ClassName="version2.OrangePhoneCall">
+<Prefix>054</Prefix>
+</Vendor>
++<Vendor ClassName="version2.CellcomPhoneCall">
+<Prefix>052</Prefix>
+</Vendor>
++<Vendor ClassName="version2.PelephonePhoneCall">
+<Prefix>050</Prefix>
+</Vendor>
+</TelephoneExchangeConfg>

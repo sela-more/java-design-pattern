@@ -1,0 +1,6 @@
+flyweight.paymentSystemVer2.IdentificationState
+flyweight.paymentSystemVer2.VerificationState
+flyweight.paymentSystemVer2.CreditNumState
+flyweight.paymentSystemVer2.CreditDateState
+flyweight.paymentSystemVer2.ConfirmationState
+flyweight.paymentSystemVer2.ThankYouState

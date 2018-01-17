@@ -1,0 +1,13 @@
+User 99 value = 0
+User 00 value = 1
+User 88 value = 1
+User 99 value = 1
+User 00 value = 2
+User 88 value = 2
+User 99 value = 2
+User 00 value = 3
+User 88 value = 3
+User 99 value = 3
+User 00 value = 4
+User 88 value = 4
+User 99 value = 4

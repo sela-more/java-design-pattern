@@ -1,0 +1,5 @@
+delegationWriterEx.Main: 
+	Name = field1
+		type = int
+		static = false
+		AccessPrivilage = Public
